@@ -47,9 +47,6 @@ Motivated Computer Science and Mathematics undergraduate with a strong foundatio
 A complete task-management app with authentication, REST API integration, and modular backend architecture.  
 👉 **Repo:** https://github.com/cesar17e/fullstack-todo-app
 
-### 🔹 **RU Donuts Android App** — _Java, Android Studio, XML, RecyclerView_  
-Multi-screen ordering system with custom UI components, dynamic pricing, and shared state management.  
-
 ---
 
 ## 📊 GitHub Stats
