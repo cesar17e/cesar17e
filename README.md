@@ -23,20 +23,6 @@ Motivated Computer Science and Mathematics undergraduate with a strong foundatio
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 🔹 **Fullstack Todo App** — _React, Node.js, Express, SQLite, JWT_  
-A complete task-management app with authentication, REST API integration, and modular backend architecture.  
-👉 **Repo:** https://github.com/cesar17e/fullstack-todo-app
-
-### 🔹 **Fullstack Notes App** — _React, Node.js, Express, MongoDB, JWT_
-A notes application with secure authentication, a structured REST API, and a modern UI. Fully deployed and optimized for real-world usage.
-👉 **Live Demo:** https://notes-application-zeun.onrender.com/login
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-estrada-balbuena-ba28b0285/)
